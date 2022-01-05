@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.refContainer{
+    display: block;
+}
+.imageStyle{
+    width: 150px;
+}
+.labelStyle{
+    display: inline-block;
+    width: 20px;
+    text-align: left;
+}
